@@ -1,0 +1,47 @@
+.App{
+	padding-top:10px;
+	padding-left: 120px;
+	padding-right: 120px;
+}
+
+.searchForm{
+	margin-left: 30%;
+	margin-right: 30%;
+	margin-top: 15px;
+	height: 40px;
+}
+
+.searchTextBox{
+	height: 100%;
+	display: inline-block;
+	width:70%;
+}
+
+.searchBtn{
+	background: none;
+	width:30%;
+	height: 100%;
+	outline: none;
+	border: none;
+	background-color: #3498DB;
+	color: white;
+	border: 1px solid #3498DB;
+	display: inline-block;
+}
+
+.chartTable{
+	margin-top: 40px;
+}
+
+.averageUnitLabel{
+	text-align: center;
+}
+
+svg{
+	height: 150px;
+}
+
+td:first-of-type, td:first-of-type>div{
+	width:200px;
+	height: 200px;
+}
